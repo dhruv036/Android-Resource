@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0a6621cd0b6973fd",
+        "id": "4da60643c2350e0f",
         "type": "tabs",
         "children": [
           {
-            "id": "375d290cd653cdd0",
+            "id": "7f64c91b8b72cc02",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
@@ -153,6 +153,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8aaf93ca4c5c98cd",
-  "lastOpenFiles": []
+  "active": "7f64c91b8b72cc02",
+  "lastOpenFiles": [
+    "Pasted Image 20230314005235_826.png",
+    "Pasted Image 20230314011805_714.png",
+    "Excalidraw/Drawing 2023-03-13 23.49.36.excalidraw.md",
+    "Excalidraw/Drawing 2023-03-15 23.57.54.excalidraw.md",
+    "Excalidraw/Drawing 2023-03-13 23.31.59.excalidraw.md",
+    "Excalidraw/Scripts/Downloaded/Set Font Family.svg",
+    "Excalidraw/Scripts/Downloaded/Set Font Family.md",
+    "Excalidraw/Scripts/Downloaded",
+    "Excalidraw/Scripts"
+  ]
 }
