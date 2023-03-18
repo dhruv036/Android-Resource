@@ -11,13 +11,22 @@
             "id": "7f64c91b8b72cc02",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "7f366d401c4e893f",
+            "type": "leaf",
+            "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Drawing 2023-03-13 23.31.59.excalidraw.md"
+                "file": "Excalidraw/DI.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -83,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-03-13 23.31.59.excalidraw.md",
+                "file": "Excalidraw/DI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-03-13 23.31.59.excalidraw.md",
+                "file": "Excalidraw/DI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-03-13 23.31.59.excalidraw.md"
+                "file": "Excalidraw/DI.md"
               }
             }
           },
@@ -153,15 +162,18 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7f64c91b8b72cc02",
+  "active": "7f366d401c4e893f",
   "lastOpenFiles": [
+    "Excalidraw/Coroutine.md",
+    "Excalidraw/DI.md",
+    "Pasted Image 20230317001214_206.png",
+    "Excalidraw/Untitled.md",
     "Pasted Image 20230316005728_797.png",
     "Pasted Image 20230316005627_726.png",
     "Pasted Image 20230314005235_826.png",
     "Pasted Image 20230314011805_714.png",
     "Excalidraw/Drawing 2023-03-13 23.49.36.excalidraw.md",
     "Excalidraw/Drawing 2023-03-15 23.57.54.excalidraw.md",
-    "Excalidraw/Drawing 2023-03-13 23.31.59.excalidraw.md",
     "Excalidraw/Scripts/Downloaded/Set Font Family.svg",
     "Excalidraw/Scripts/Downloaded/Set Font Family.md",
     "Excalidraw/Scripts/Downloaded",
