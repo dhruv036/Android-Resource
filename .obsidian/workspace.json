@@ -11,22 +11,25 @@
             "id": "7f64c91b8b72cc02",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "7f366d401c4e893f",
-            "type": "leaf",
-            "state": {
               "type": "excalidraw",
               "state": {
                 "file": "Excalidraw/DI.md"
               }
             }
+          },
+          {
+            "id": "a5c0ed8584b4af65",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Excalidraw/Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -162,12 +165,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7f366d401c4e893f",
+  "active": "7f64c91b8b72cc02",
   "lastOpenFiles": [
     "Excalidraw/Coroutine.md",
-    "Excalidraw/DI.md",
-    "Pasted Image 20230317001214_206.png",
     "Excalidraw/Untitled.md",
+    "Excalidraw/DI.md",
+    "Pasted Image 20230321113710_438.png",
+    "Pasted Image 20230321111817_035.png",
+    "Pasted Image 20230319232852_981.png",
+    "Pasted Image 20230317001214_206.png",
     "Pasted Image 20230316005728_797.png",
     "Pasted Image 20230316005627_726.png",
     "Pasted Image 20230314005235_826.png",
