@@ -4,18 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "4da60643c2350e0f",
+        "id": "e1dd89c859ba56a6",
         "type": "tabs",
         "children": [
           {
-            "id": "a5c0ed8584b4af65",
+            "id": "e583011d61de7a4c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Untitled.md",
-                "mode": "source",
-                "source": false
+                "file": "Diagrams/DI.md"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Untitled.md",
+                "file": "Diagrams/DI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Untitled.md",
+                "file": "Diagrams/DI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Untitled.md"
+                "file": "Diagrams/DI.md"
               }
             }
           },
@@ -155,11 +153,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a5c0ed8584b4af65",
+  "active": "e583011d61de7a4c",
   "lastOpenFiles": [
-    "Excalidraw/DI.md",
-    "Excalidraw/Coroutine.md",
-    "Excalidraw/Untitled.md",
+    "Diagrams/Coroutine.md",
+    "Android.md",
+    "Notes.md",
+    "Diagrams/DI.md",
     "Pasted Image 20230321113710_438.png",
     "Pasted Image 20230321111817_035.png",
     "Pasted Image 20230319232852_981.png",
@@ -170,9 +169,9 @@
     "Pasted Image 20230314011805_714.png",
     "Excalidraw/Drawing 2023-03-13 23.49.36.excalidraw.md",
     "Excalidraw/Drawing 2023-03-15 23.57.54.excalidraw.md",
-    "Excalidraw/Scripts/Downloaded/Set Font Family.svg",
-    "Excalidraw/Scripts/Downloaded/Set Font Family.md",
-    "Excalidraw/Scripts/Downloaded",
-    "Excalidraw/Scripts"
+    "Diagrams/Scripts/Downloaded/Set Font Family.svg",
+    "Diagrams/Scripts/Downloaded/Set Font Family.md",
+    "Diagrams/Scripts/Downloaded",
+    "Diagrams/Scripts"
   ]
 }
