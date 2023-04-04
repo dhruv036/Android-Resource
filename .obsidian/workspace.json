@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "e1dd89c859ba56a6",
+        "id": "5ac56b83fffc4df8",
         "type": "tabs",
         "children": [
           {
-            "id": "e583011d61de7a4c",
+            "id": "35e8ca722d53e271",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Diagrams/Flows.md"
+                "file": "Notes.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Diagrams/Flows.md",
+                "file": "Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Diagrams/Flows.md",
+                "file": "Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Diagrams/Flows.md"
+                "file": "Notes.md"
               }
             }
           },
@@ -153,8 +155,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e583011d61de7a4c",
+  "active": "35e8ca722d53e271",
   "lastOpenFiles": [
+    "Untitled.canvas",
+    "Diagrams/Flows.md",
     "Pasted Image 20230403155044_816.png",
     "Diagrams/DI.md",
     "Pasted Image 20230314005235_826.png",
@@ -165,7 +169,6 @@
     "Pasted Image 20230319232852_981.png",
     "Pasted Image 20230321111817_035.png",
     "Pasted Image 20230321113710_438.png",
-    "Diagrams/Flows.md",
     "Excalidraw",
     "Diagrams/Coroutine.md",
     "Android.md",
