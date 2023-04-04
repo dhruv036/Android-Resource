@@ -325,8 +325,8 @@ data will get from starting ^Nvc8jZcN
 		},
 		{
 			"type": "arrow",
-			"version": 216,
-			"versionNonce": 1012804658,
+			"version": 224,
+			"versionNonce": 1771278911,
 			"isDeleted": false,
 			"id": "6UlcVOiJjz1K5GV_sOWFH",
 			"fillStyle": "hachure",
@@ -347,7 +347,7 @@ data will get from starting ^Nvc8jZcN
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1680517244998,
+			"updated": 1680586376532,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -376,8 +376,8 @@ data will get from starting ^Nvc8jZcN
 		},
 		{
 			"type": "arrow",
-			"version": 406,
-			"versionNonce": 133027314,
+			"version": 414,
+			"versionNonce": 50655839,
 			"isDeleted": false,
 			"id": "oUfuOuXzmDmTmp5EIRWCm",
 			"fillStyle": "hachure",
@@ -386,11 +386,11 @@ data will get from starting ^Nvc8jZcN
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -1.5487137944068579,
+			"x": -1.5487172478987148,
 			"y": 46.61187162782531,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 82.11613220684114,
+			"width": 82.11613447890812,
 			"height": 40.421875,
 			"seed": 85655214,
 			"groupIds": [],
@@ -398,7 +398,7 @@ data will get from starting ^Nvc8jZcN
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1680517244998,
+			"updated": 1680586376533,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -420,7 +420,7 @@ data will get from starting ^Nvc8jZcN
 					0
 				],
 				[
-					82.11613220684114,
+					82.11613447890812,
 					40.421875
 				]
 			]
@@ -562,27 +562,27 @@ data will get from starting ^Nvc8jZcN
 			"originalText": "data will get from starting"
 		},
 		{
-			"id": "ney_c3wugtp80k_fymNJI",
 			"type": "image",
-			"x": -251.0272595340785,
-			"y": 240.4343951962582,
-			"width": 539.5876318057155,
-			"height": 531.8013744925016,
-			"angle": 0,
-			"strokeColor": "transparent",
-			"backgroundColor": "transparent",
+			"version": 174,
+			"versionNonce": 185421550,
+			"isDeleted": false,
+			"id": "ney_c3wugtp80k_fymNJI",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -251.02725953407844,
+			"y": 240.43439519625815,
+			"strokeColor": "transparent",
+			"backgroundColor": "transparent",
+			"width": 539.5876318057154,
+			"height": 531.8013744925017,
+			"seed": 1734125806,
 			"groupIds": [],
 			"roundness": null,
-			"seed": 1734125806,
-			"version": 174,
-			"versionNonce": 185421550,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1680517244369,
 			"link": null,
 			"locked": false,
@@ -609,10 +609,10 @@ data will get from starting ^Nvc8jZcN
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 299.77634027408664,
-		"scrollY": -177.09442194543678,
+		"scrollX": 507.1157965723972,
+		"scrollY": 42.12326864826707,
 		"zoom": {
-			"value": 1.471750353975996
+			"value": 0.8500000000000001
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,

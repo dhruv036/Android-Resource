@@ -1178,8 +1178,8 @@ c70996bee6098ce0090d63b4d334d40053e6df5e: [[Pasted Image 20230316005627_726.png]
 		},
 		{
 			"type": "arrow",
-			"version": 1039,
-			"versionNonce": 1480683342,
+			"version": 1041,
+			"versionNonce": 281822737,
 			"isDeleted": false,
 			"id": "yR92VAHUEEcoHvCvtTIYN",
 			"fillStyle": "cross-hatch",
@@ -1200,7 +1200,7 @@ c70996bee6098ce0090d63b4d334d40053e6df5e: [[Pasted Image 20230316005627_726.png]
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1679407186639,
+			"updated": 1680586385787,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -3334,40 +3334,6 @@ c70996bee6098ce0090d63b4d334d40053e6df5e: [[Pasted Image 20230316005627_726.png]
 			"verticalAlign": "middle",
 			"containerId": "_G_k3UA3dX3KywBV1ugzX",
 			"originalText": "Out of memory if thread exceed 100K"
-		},
-		{
-			"id": "q0166Krt",
-			"type": "text",
-			"x": -1307.9798621664245,
-			"y": 2264.8004590485248,
-			"width": 3774.930419921875,
-			"height": 33.6,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "#868e96",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 2,
-			"opacity": 100,
-			"groupIds": [],
-			"roundness": null,
-			"seed": 1173492306,
-			"version": 128,
-			"versionNonce": 1101355534,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1679423120258,
-			"link": null,
-			"locked": false,
-			"text": "java.lang.RuntimeException: Unable to start activity ComponentInfo{com.dhruv.didemo/com.dhruv.didemo.MainActivity}: androidx.fragment.app.Fragment$InstantiationException: Unable to instantiate fragment com.dhruv.didemo.MainFragment: could not find Fragment constructor",
-			"rawText": "java.lang.RuntimeException: Unable to start activity ComponentInfo{com.dhruv.didemo/com.dhruv.didemo.MainActivity}: androidx.fragment.app.Fragment$InstantiationException: Unable to instantiate fragment com.dhruv.didemo.MainFragment: could not find Fragment constructor",
-			"fontSize": 28,
-			"fontFamily": 1,
-			"textAlign": "left",
-			"verticalAlign": "top",
-			"containerId": null,
-			"originalText": "java.lang.RuntimeException: Unable to start activity ComponentInfo{com.dhruv.didemo/com.dhruv.didemo.MainActivity}: androidx.fragment.app.Fragment$InstantiationException: Unable to instantiate fragment com.dhruv.didemo.MainFragment: could not find Fragment constructor"
 		}
 	],
 	"appState": {
@@ -3385,10 +3351,10 @@ c70996bee6098ce0090d63b4d334d40053e6df5e: [[Pasted Image 20230316005627_726.png]
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 479.1525044782934,
-		"scrollY": -1381.4379906653446,
+		"scrollX": 2503.2404891762535,
+		"scrollY": 1232.3213932624785,
 		"zoom": {
-			"value": 0.46282630804926145
+			"value": 0.2
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,
