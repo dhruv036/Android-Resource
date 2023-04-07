@@ -17,6 +17,7 @@
   "displayExportedImageIfAvailable": false,
   "previewMatchObsidianTheme": false,
   "width": "400",
+  "dynamicStyling": "colorful",
   "isLeftHanded": false,
   "matchTheme": false,
   "matchThemeAlways": false,
@@ -68,7 +69,7 @@
   "library2": {
     "type": "excalidrawlib",
     "version": 2,
-    "source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/1.8.19",
+    "source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/1.8.22",
     "libraryItems": [
       {
         "id": "Lx0FHIuT395P2_2K-tP-A",
@@ -108,7 +109,8 @@
             "textAlign": "left",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "Hello"
+            "originalText": "Hello",
+            "lineHeight": 1.2
           },
           {
             "type": "text",
@@ -144,7 +146,8 @@
             "textAlign": "left",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "World 1"
+            "originalText": "World 1",
+            "lineHeight": 1.2
           },
           {
             "type": "text",
@@ -180,7 +183,8 @@
             "textAlign": "left",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "World 2"
+            "originalText": "World 2",
+            "lineHeight": 1.2
           },
           {
             "type": "text",
@@ -216,7 +220,8 @@
             "textAlign": "left",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "Done"
+            "originalText": "Done",
+            "lineHeight": 1.2
           }
         ],
         "created": 1678813537323
@@ -232,7 +237,7 @@
   "mdCSS": "",
   "scriptEngineSettings": {},
   "defaultTrayMode": true,
-  "previousRelease": "1.8.19",
+  "previousRelease": "1.8.22",
   "showReleaseNotes": true,
   "showNewVersionNotification": true,
   "mathjaxSourceURL": "https://cdn.jsdelivr.net/npm/mathjax@3.2.1/es5/tex-svg.js",
