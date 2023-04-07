@@ -367,8 +367,8 @@ f269001d979c5659f1e0c28d7ceb617be8473225: [[Pasted Image 20230408013546_789.png]
 		},
 		{
 			"type": "arrow",
-			"version": 301,
-			"versionNonce": 1195754692,
+			"version": 305,
+			"versionNonce": 1093134716,
 			"isDeleted": false,
 			"id": "6UlcVOiJjz1K5GV_sOWFH",
 			"fillStyle": "hachure",
@@ -389,7 +389,7 @@ f269001d979c5659f1e0c28d7ceb617be8473225: [[Pasted Image 20230408013546_789.png]
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1680901183102,
+			"updated": 1680901792179,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -418,8 +418,8 @@ f269001d979c5659f1e0c28d7ceb617be8473225: [[Pasted Image 20230408013546_789.png]
 		},
 		{
 			"type": "arrow",
-			"version": 491,
-			"versionNonce": 1603815932,
+			"version": 495,
+			"versionNonce": 1273321980,
 			"isDeleted": false,
 			"id": "oUfuOuXzmDmTmp5EIRWCm",
 			"fillStyle": "hachure",
@@ -440,7 +440,7 @@ f269001d979c5659f1e0c28d7ceb617be8473225: [[Pasted Image 20230408013546_789.png]
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1680901183105,
+			"updated": 1680901792180,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -1494,10 +1494,10 @@ f269001d979c5659f1e0c28d7ceb617be8473225: [[Pasted Image 20230408013546_789.png]
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": -636.0076856349853,
-		"scrollY": -988.2970171502581,
+		"scrollX": 2089.209211164217,
+		"scrollY": 820.2771987585079,
 		"zoom": {
-			"value": 0.38336966916918747
+			"value": 0.15000000000000002
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,

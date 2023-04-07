@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8454b0227a546be4",
+        "id": "ee42074fc5b5a70d",
         "type": "tabs",
         "children": [
           {
-            "id": "597957075b5cf683",
+            "id": "456a2c536cff5f70",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
@@ -134,6 +134,14 @@
               "type": "git-view",
               "state": {}
             }
+          },
+          {
+            "id": "a5df890789ee1ef1",
+            "type": "leaf",
+            "state": {
+              "type": "code-execute-manage-executors",
+              "state": {}
+            }
           }
         ],
         "currentTab": 4
@@ -153,10 +161,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "597957075b5cf683",
+  "active": "456a2c536cff5f70",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2023-04-08 02.29.49.excalidraw.md",
     "Diagrams/Flows.md",
+    "Excalidraw/Drawing 2023-04-08 02.29.49.excalidraw.md",
     "Excalidraw",
     "Notes.md",
     "Pasted Image 20230408013546_789.png",
