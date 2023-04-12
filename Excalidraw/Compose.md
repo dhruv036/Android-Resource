@@ -14,6 +14,8 @@ tags: [excalidraw]
 200c3e71ba90c98b03954e862bc94021e7d933c8: [[Pasted Image 20230412221648_347.png]]
 a3aa166028a371438267bafbdfee8dc2576f6592: [[Pasted Image 20230412221927_740.png]]
 bb76dc4a637c90647b4999c37341c832007adb1e: [[Pasted Image 20230412223028_149.png]]
+8eab569a1343415f6407bc1b2d9e79d023aa731e: [[Pasted Image 20230412223335_741.png]]
+8a0414aa6d316c7d6f28fc18abdd7620599c4c51: [[Pasted Image 20230412223406_526.png]]
 
 %%
 # Drawing
@@ -150,6 +152,70 @@ bb76dc4a637c90647b4999c37341c832007adb1e: [[Pasted Image 20230412223028_149.png]
 				1,
 				1
 			]
+		},
+		{
+			"id": "Vg7mNuJQ8SHTzSqebfM7C",
+			"type": "image",
+			"x": -343.203506614654,
+			"y": 1079.83203125,
+			"width": 701.438263229308,
+			"height": 359,
+			"angle": 0,
+			"strokeColor": "transparent",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"roundness": null,
+			"seed": 827937271,
+			"version": 30,
+			"versionNonce": 1888614103,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1681319006164,
+			"link": null,
+			"locked": false,
+			"status": "pending",
+			"fileId": "8eab569a1343415f6407bc1b2d9e79d023aa731e",
+			"scale": [
+				1,
+				1
+			]
+		},
+		{
+			"id": "mLS-bTGBFLjeYh_2Y9NkW",
+			"type": "image",
+			"x": -280.19271352091636,
+			"y": 1528.94921875,
+			"width": 686.5338645418327,
+			"height": 359,
+			"angle": 0,
+			"strokeColor": "transparent",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"roundness": null,
+			"seed": 315541017,
+			"version": 48,
+			"versionNonce": 1828327159,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1681319056239,
+			"link": null,
+			"locked": false,
+			"status": "pending",
+			"fileId": "8a0414aa6d316c7d6f28fc18abdd7620599c4c51",
+			"scale": [
+				1,
+				1
+			]
 		}
 	],
 	"appState": {
@@ -167,8 +233,8 @@ bb76dc4a637c90647b4999c37341c832007adb1e: [[Pasted Image 20230412223028_149.png]
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": -149,
-		"scrollY": -284.01953125,
+		"scrollX": 403,
+		"scrollY": -1058.01953125,
 		"zoom": {
 			"value": 1
 		},
