@@ -14,8 +14,8 @@ tags: [excalidraw]
 200c3e71ba90c98b03954e862bc94021e7d933c8: [[Pasted Image 20230412221648_347.png]]
 a3aa166028a371438267bafbdfee8dc2576f6592: [[Pasted Image 20230412221927_740.png]]
 bb76dc4a637c90647b4999c37341c832007adb1e: [[Pasted Image 20230412223028_149.png]]
-8eab569a1343415f6407bc1b2d9e79d023aa731e: [[Pasted Image 20230412223335_741.png]]
 8a0414aa6d316c7d6f28fc18abdd7620599c4c51: [[Pasted Image 20230412223406_526.png]]
+dcfcd9cc6706d809a1cace2c1c84da06ecc242b9: [[Pasted Image 20230412223728_937.png]]
 
 %%
 # Drawing
@@ -154,38 +154,6 @@ bb76dc4a637c90647b4999c37341c832007adb1e: [[Pasted Image 20230412223028_149.png]
 			]
 		},
 		{
-			"id": "Vg7mNuJQ8SHTzSqebfM7C",
-			"type": "image",
-			"x": -343.203506614654,
-			"y": 1079.83203125,
-			"width": 701.438263229308,
-			"height": 359,
-			"angle": 0,
-			"strokeColor": "transparent",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"roundness": null,
-			"seed": 827937271,
-			"version": 30,
-			"versionNonce": 1888614103,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1681319006164,
-			"link": null,
-			"locked": false,
-			"status": "pending",
-			"fileId": "8eab569a1343415f6407bc1b2d9e79d023aa731e",
-			"scale": [
-				1,
-				1
-			]
-		},
-		{
 			"id": "mLS-bTGBFLjeYh_2Y9NkW",
 			"type": "image",
 			"x": -280.19271352091636,
@@ -216,6 +184,112 @@ bb76dc4a637c90647b4999c37341c832007adb1e: [[Pasted Image 20230412223028_149.png]
 				1,
 				1
 			]
+		},
+		{
+			"id": "ZuRJrDw1vl1A1MbeUFTqA",
+			"type": "image",
+			"x": -312.89101357984293,
+			"y": 1095.96875,
+			"width": 676.6492146596859,
+			"height": 359,
+			"angle": 0,
+			"strokeColor": "transparent",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"roundness": null,
+			"seed": 44810233,
+			"version": 76,
+			"versionNonce": 1697806903,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1681319256549,
+			"link": null,
+			"locked": false,
+			"status": "pending",
+			"fileId": "dcfcd9cc6706d809a1cace2c1c84da06ecc242b9",
+			"scale": [
+				1,
+				1
+			]
+		},
+		{
+			"id": "xKbZ8viIZZwcuNkZXXxOM",
+			"type": "freedraw",
+			"x": 255.10546875,
+			"y": 1387.48046875,
+			"width": 0.0001,
+			"height": 0.0001,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"roundness": null,
+			"seed": 448058809,
+			"version": 3,
+			"versionNonce": 1424209561,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1681319238056,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0.0001,
+					0.0001
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				0.0001,
+				0.0001
+			]
+		},
+		{
+			"id": "Vg7mNuJQ8SHTzSqebfM7C",
+			"type": "image",
+			"x": -343.203506614654,
+			"y": 1079.83203125,
+			"width": 701.438263229308,
+			"height": 359,
+			"angle": 0,
+			"strokeColor": "transparent",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"roundness": null,
+			"seed": 827937271,
+			"version": 31,
+			"versionNonce": 625695607,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1681319247731,
+			"link": null,
+			"locked": false,
+			"status": "pending",
+			"fileId": "8eab569a1343415f6407bc1b2d9e79d023aa731e",
+			"scale": [
+				1,
+				1
+			]
 		}
 	],
 	"appState": {
@@ -233,8 +307,8 @@ bb76dc4a637c90647b4999c37341c832007adb1e: [[Pasted Image 20230412223028_149.png]
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 403,
-		"scrollY": -1058.01953125,
+		"scrollX": 439,
+		"scrollY": -850.01953125,
 		"zoom": {
 			"value": 1
 		},
