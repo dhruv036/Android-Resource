@@ -1,0 +1,17 @@
+{
+  "selected": "_system",
+  "custom": {},
+  "modifierBindings": [
+    {
+      "id": "HCG7WC",
+      "platform": "unknown",
+      "modifier": "none",
+      "focusOnView": true,
+      "auxClickOnly": false,
+      "browser": "chrome"
+    }
+  ],
+  "enableLog": false,
+  "timeout": 500,
+  "inAppViewRec": []
+}
