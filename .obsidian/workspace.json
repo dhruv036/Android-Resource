@@ -4,31 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "e55344947e2cd9d4",
+        "id": "92697a9a901b990d",
         "type": "tabs",
         "children": [
           {
-            "id": "678ca34a86fc7dd6",
+            "id": "da481f7da113b9b5",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "Pasted Image 20230316005627_726.png"
-              }
-            }
-          },
-          {
-            "id": "26d69dcb44c240b4",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Compose.md"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Compose.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Compose.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Excalidraw/Compose.md"
-              }
+              "state": {}
             }
           },
           {
@@ -172,10 +155,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "26d69dcb44c240b4",
+  "active": "09d316bc7eb61069",
   "lastOpenFiles": [
     "Excalidraw/Drawing 2023-04-15 12.16.53.excalidraw.md",
     "Excalidraw/Compose.md",
+    "Notes.md",
     "Pasted Image 20230415120842_964.png",
     "Pasted Image 20230414122455_536.png",
     "Pasted Image 20230412223728_937.png",
@@ -187,7 +171,6 @@
     "Pasted Image 20230412221601_262.png",
     "Pasted Image 20230316005627_726.png",
     "Excalidraw",
-    "Notes.md",
     "Images",
     "Diagrams/Flows.md",
     "Excalidraw/Drawing 2023-04-08 02.29.49.excalidraw.md",
