@@ -4,15 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "92697a9a901b990d",
+        "id": "6cc6d95e564cc322",
         "type": "tabs",
         "children": [
           {
-            "id": "da481f7da113b9b5",
+            "id": "07e91bec8fa50afb",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "excalidraw",
+              "state": {
+                "file": "Diagrams/Compose.md"
+              }
             }
           }
         ]
@@ -60,6 +62,14 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "651cdb7836ca6cff",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -81,6 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Diagrams/Compose.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Diagrams/Compose.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +130,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Diagrams/Compose.md"
+              }
             }
           },
           {
@@ -155,11 +169,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "09d316bc7eb61069",
+  "active": "b1abfe4b94f15bb0",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2023-04-15 12.16.53.excalidraw.md",
-    "Excalidraw/Compose.md",
     "Notes.md",
+    "Untitled.canvas",
+    "Excalidraw/Drawing 2023-04-15 12.16.53.excalidraw.md",
+    "Diagrams/Compose.md",
     "Pasted Image 20230415120842_964.png",
     "Pasted Image 20230414122455_536.png",
     "Pasted Image 20230412223728_937.png",
@@ -176,7 +191,6 @@
     "Excalidraw/Drawing 2023-04-08 02.29.49.excalidraw.md",
     "Diagrams/Coroutine.md",
     "Diagrams/DI.md",
-    "Untitled.canvas",
     "Android.md",
     "Excalidraw/Drawing 2023-03-13 23.49.36.excalidraw.md",
     "Excalidraw/Drawing 2023-03-15 23.57.54.excalidraw.md",
