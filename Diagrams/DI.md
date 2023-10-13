@@ -88,6 +88,8 @@ androidx.fragment.app.Fragment$InstantiationException: Unable
  to instantiate fragment com.dhruv.didemo.MainFragment: could
  not find Fragment constructor ^ylE8Q4Fh
 
+Fully Kotlin  ^7GiiYB8W
+
 
 # Embedded files
 0b26a979a5e3f2d8c51fb7c16ddf4126d461c04f: [[Pasted Image 20230317001214_206.png]]
@@ -101,12 +103,12 @@ b6712f18ac6eead89b033609d806f16fa3df1d34: [[Pasted Image 20230321113710_438.png]
 {
 	"type": "excalidraw",
 	"version": 2,
-	"source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/1.8.19",
+	"source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/1.8.26",
 	"elements": [
 		{
 			"type": "rectangle",
-			"version": 669,
-			"versionNonce": 1632061070,
+			"version": 670,
+			"versionNonce": 857562797,
 			"isDeleted": false,
 			"id": "G1XB3U2qX722g_AUmXEzc",
 			"fillStyle": "hachure",
@@ -120,7 +122,7 @@ b6712f18ac6eead89b033609d806f16fa3df1d34: [[Pasted Image 20230321113710_438.png]
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 588,
-			"height": 145,
+			"height": 150,
 			"seed": 861006595,
 			"groupIds": [],
 			"roundness": {
@@ -132,14 +134,14 @@ b6712f18ac6eead89b033609d806f16fa3df1d34: [[Pasted Image 20230321113710_438.png]
 					"id": "nVxuh2l1"
 				}
 			],
-			"updated": 1679378805419,
+			"updated": 1684404350820,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 794,
-			"versionNonce": 782283090,
+			"version": 795,
+			"versionNonce": 518975139,
 			"isDeleted": false,
 			"id": "nVxuh2l1",
 			"fillStyle": "hachure",
@@ -149,16 +151,16 @@ b6712f18ac6eead89b033609d806f16fa3df1d34: [[Pasted Image 20230321113710_438.png]
 			"opacity": 100,
 			"angle": 0,
 			"x": 1.0175891334274638,
-			"y": -1614.1284532293466,
+			"y": -1614.4284532293466,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 533.371826171875,
-			"height": 134.4,
+			"height": 140,
 			"seed": 1485430755,
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1679378805419,
+			"updated": 1684404350820,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -168,7 +170,9 @@ b6712f18ac6eead89b033609d806f16fa3df1d34: [[Pasted Image 20230321113710_438.png]
 			"textAlign": "center",
 			"verticalAlign": "middle",
 			"containerId": "G1XB3U2qX722g_AUmXEzc",
-			"originalText": "DI is a Design pattern which is responsible for creation of object for and injecting in your class at compile time."
+			"originalText": "DI is a Design pattern which is responsible for creation of object for and injecting in your class at compile time.",
+			"lineHeight": 1.25,
+			"baseline": 130
 		},
 		{
 			"type": "rectangle",
@@ -237,7 +241,9 @@ b6712f18ac6eead89b033609d806f16fa3df1d34: [[Pasted Image 20230321113710_438.png]
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "1. Car c = new Engine();"
+			"originalText": "1. Car c = new Engine();",
+			"lineHeight": 1.2,
+			"baseline": 15
 		},
 		{
 			"type": "text",
@@ -273,7 +279,9 @@ b6712f18ac6eead89b033609d806f16fa3df1d34: [[Pasted Image 20230321113710_438.png]
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "2. car c = Engine.getInstance()"
+			"originalText": "2. car c = Engine.getInstance()",
+			"lineHeight": 1.2,
+			"baseline": 15
 		},
 		{
 			"type": "text",
@@ -309,7 +317,9 @@ b6712f18ac6eead89b033609d806f16fa3df1d34: [[Pasted Image 20230321113710_438.png]
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "3. public Car(Engine engine){"
+			"originalText": "3. public Car(Engine engine){",
+			"lineHeight": 1.2,
+			"baseline": 15
 		},
 		{
 			"type": "text",
@@ -345,7 +355,9 @@ b6712f18ac6eead89b033609d806f16fa3df1d34: [[Pasted Image 20230321113710_438.png]
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "c= engine;"
+			"originalText": "c= engine;",
+			"lineHeight": 1.2,
+			"baseline": 15
 		},
 		{
 			"type": "text",
@@ -381,7 +393,9 @@ b6712f18ac6eead89b033609d806f16fa3df1d34: [[Pasted Image 20230321113710_438.png]
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "}"
+			"originalText": "}",
+			"lineHeight": 1.2,
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
@@ -456,7 +470,9 @@ b6712f18ac6eead89b033609d806f16fa3df1d34: [[Pasted Image 20230321113710_438.png]
 			"textAlign": "center",
 			"verticalAlign": "middle",
 			"containerId": "k_NGQt234QMkCpbjlE_iy",
-			"originalText": "DI in 2 Ways"
+			"originalText": "DI in 2 Ways",
+			"lineHeight": 1.2,
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
@@ -527,7 +543,9 @@ b6712f18ac6eead89b033609d806f16fa3df1d34: [[Pasted Image 20230321113710_438.png]
 			"textAlign": "center",
 			"verticalAlign": "middle",
 			"containerId": "cIYj1NCpHqFNmWHEzdE-P",
-			"originalText": "Constructor Injection "
+			"originalText": "Constructor Injection ",
+			"lineHeight": 1.2,
+			"baseline": 20
 		},
 		{
 			"type": "rectangle",
@@ -598,12 +616,14 @@ b6712f18ac6eead89b033609d806f16fa3df1d34: [[Pasted Image 20230321113710_438.png]
 			"textAlign": "center",
 			"verticalAlign": "middle",
 			"containerId": "2xoT3DCxhkR4shBrWckAt",
-			"originalText": "Field Injection\nex:- Activity,Fragment"
+			"originalText": "Field Injection\nex:- Activity,Fragment",
+			"lineHeight": 1.2,
+			"baseline": 44
 		},
 		{
 			"type": "arrow",
-			"version": 1139,
-			"versionNonce": 1106007217,
+			"version": 1143,
+			"versionNonce": 454536579,
 			"isDeleted": false,
 			"id": "nYAujwenpGtmjOANaUNZ5",
 			"fillStyle": "solid",
@@ -624,7 +644,7 @@ b6712f18ac6eead89b033609d806f16fa3df1d34: [[Pasted Image 20230321113710_438.png]
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1680586382824,
+			"updated": 1684404350822,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -653,8 +673,8 @@ b6712f18ac6eead89b033609d806f16fa3df1d34: [[Pasted Image 20230321113710_438.png]
 		},
 		{
 			"type": "arrow",
-			"version": 1391,
-			"versionNonce": 1874892433,
+			"version": 1395,
+			"versionNonce": 661456163,
 			"isDeleted": false,
 			"id": "aG70qZyJrqRvqiogM0HK4",
 			"fillStyle": "solid",
@@ -675,7 +695,7 @@ b6712f18ac6eead89b033609d806f16fa3df1d34: [[Pasted Image 20230321113710_438.png]
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1680586382824,
+			"updated": 1684404350823,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -771,7 +791,9 @@ b6712f18ac6eead89b033609d806f16fa3df1d34: [[Pasted Image 20230321113710_438.png]
 			"textAlign": "center",
 			"verticalAlign": "middle",
 			"containerId": "5_R6CmX57ErSoFSKIQSnD",
-			"originalText": "Problem in Manual Injection"
+			"originalText": "Problem in Manual Injection",
+			"lineHeight": 1.2,
+			"baseline": 15
 		},
 		{
 			"type": "rectangle",
@@ -842,7 +864,9 @@ b6712f18ac6eead89b033609d806f16fa3df1d34: [[Pasted Image 20230321113710_438.png]
 			"textAlign": "center",
 			"verticalAlign": "middle",
 			"containerId": "d8S-xDM4eZeOxKpdyzvVR",
-			"originalText": "Lots of Boilerplate Code\nex:- For CAR we need engine,gear,cartype,chassi,milage"
+			"originalText": "Lots of Boilerplate Code\nex:- For CAR we need engine,gear,cartype,chassi,milage",
+			"lineHeight": 1.2,
+			"baseline": 53
 		},
 		{
 			"type": "rectangle",
@@ -879,8 +903,8 @@ b6712f18ac6eead89b033609d806f16fa3df1d34: [[Pasted Image 20230321113710_438.png]
 		},
 		{
 			"type": "text",
-			"version": 561,
-			"versionNonce": 1028559570,
+			"version": 562,
+			"versionNonce": 1701319501,
 			"isDeleted": false,
 			"id": "gLNET5rb",
 			"fillStyle": "solid",
@@ -890,16 +914,16 @@ b6712f18ac6eead89b033609d806f16fa3df1d34: [[Pasted Image 20230321113710_438.png]
 			"opacity": 100,
 			"angle": 0,
 			"x": -698.5176355832069,
-			"y": -1565.9973862953,
+			"y": -1565.2973862953,
 			"strokeColor": "#c92a2a",
 			"backgroundColor": "#ced4da",
 			"width": 292.591796875,
-			"height": 33.6,
+			"height": 32.199999999999996,
 			"seed": 237542957,
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1679378805420,
+			"updated": 1684404350825,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -909,12 +933,14 @@ b6712f18ac6eead89b033609d806f16fa3df1d34: [[Pasted Image 20230321113710_438.png]
 			"textAlign": "center",
 			"verticalAlign": "middle",
 			"containerId": "2JzfY-qYnCGK8UsXleeXD",
-			"originalText": "Service Locator Pattern"
+			"originalText": "Service Locator Pattern",
+			"lineHeight": 1.15,
+			"baseline": 26
 		},
 		{
 			"type": "arrow",
-			"version": 1335,
-			"versionNonce": 650569297,
+			"version": 1339,
+			"versionNonce": 433215587,
 			"isDeleted": false,
 			"id": "wKMZ2jSpkhWYyynNCeFTb",
 			"fillStyle": "solid",
@@ -935,7 +961,7 @@ b6712f18ac6eead89b033609d806f16fa3df1d34: [[Pasted Image 20230321113710_438.png]
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1680586382825,
+			"updated": 1684404350824,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -1026,7 +1052,9 @@ b6712f18ac6eead89b033609d806f16fa3df1d34: [[Pasted Image 20230321113710_438.png]
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "Note: The following exceptions apply to Hilt support for Android classes:"
+			"originalText": "Note: The following exceptions apply to Hilt support for Android classes:",
+			"lineHeight": 1.2,
+			"baseline": 27
 		},
 		{
 			"type": "text",
@@ -1060,7 +1088,9 @@ b6712f18ac6eead89b033609d806f16fa3df1d34: [[Pasted Image 20230321113710_438.png]
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "Hilt only supports activities that extend ComponentActivity, such as AppCompatActivity."
+			"originalText": "Hilt only supports activities that extend ComponentActivity, such as AppCompatActivity.",
+			"lineHeight": 1.2,
+			"baseline": 27
 		},
 		{
 			"type": "text",
@@ -1094,7 +1124,9 @@ b6712f18ac6eead89b033609d806f16fa3df1d34: [[Pasted Image 20230321113710_438.png]
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "Hilt only supports fragments that extend androidx.Fragment."
+			"originalText": "Hilt only supports fragments that extend androidx.Fragment.",
+			"lineHeight": 1.2,
+			"baseline": 27
 		},
 		{
 			"type": "text",
@@ -1128,7 +1160,9 @@ b6712f18ac6eead89b033609d806f16fa3df1d34: [[Pasted Image 20230321113710_438.png]
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "Hilt does not support retained fragments."
+			"originalText": "Hilt does not support retained fragments.",
+			"lineHeight": 1.2,
+			"baseline": 27
 		},
 		{
 			"type": "rectangle",
@@ -1195,7 +1229,9 @@ b6712f18ac6eead89b033609d806f16fa3df1d34: [[Pasted Image 20230321113710_438.png]
 			"textAlign": "center",
 			"verticalAlign": "middle",
 			"containerId": "GsUW6D9MXWpKWehi-sbnU",
-			"originalText": "DI"
+			"originalText": "DI",
+			"lineHeight": 1.2,
+			"baseline": 27
 		},
 		{
 			"type": "rectangle",
@@ -1262,7 +1298,9 @@ b6712f18ac6eead89b033609d806f16fa3df1d34: [[Pasted Image 20230321113710_438.png]
 			"textAlign": "center",
 			"verticalAlign": "middle",
 			"containerId": "RHXI6e-7RZZhDnW_DOPa9",
-			"originalText": "Hilt"
+			"originalText": "Hilt",
+			"lineHeight": 1.2,
+			"baseline": 27
 		},
 		{
 			"type": "rectangle",
@@ -1329,7 +1367,9 @@ b6712f18ac6eead89b033609d806f16fa3df1d34: [[Pasted Image 20230321113710_438.png]
 			"textAlign": "center",
 			"verticalAlign": "middle",
 			"containerId": "4PBCJg7bInmEMSldYx4fe",
-			"originalText": "Koin"
+			"originalText": "Koin",
+			"lineHeight": 1.2,
+			"baseline": 27
 		},
 		{
 			"type": "rectangle",
@@ -1396,7 +1436,9 @@ b6712f18ac6eead89b033609d806f16fa3df1d34: [[Pasted Image 20230321113710_438.png]
 			"textAlign": "center",
 			"verticalAlign": "middle",
 			"containerId": "K_T6JtAH-9SfhUsPiSOuJ",
-			"originalText": "Dagger"
+			"originalText": "Dagger",
+			"lineHeight": 1.2,
+			"baseline": 27
 		},
 		{
 			"type": "ellipse",
@@ -1467,7 +1509,9 @@ b6712f18ac6eead89b033609d806f16fa3df1d34: [[Pasted Image 20230321113710_438.png]
 			"textAlign": "center",
 			"verticalAlign": "middle",
 			"containerId": "hStmF12qyI2EvduoKyo_Q",
-			"originalText": "Manual DI"
+			"originalText": "Manual DI",
+			"lineHeight": 1.2,
+			"baseline": 27
 		},
 		{
 			"type": "rectangle",
@@ -1534,7 +1578,9 @@ b6712f18ac6eead89b033609d806f16fa3df1d34: [[Pasted Image 20230321113710_438.png]
 			"textAlign": "center",
 			"verticalAlign": "middle",
 			"containerId": "WbNhGr6McnmfO4P4IIQHq",
-			"originalText": "Craetion of object done at compiletime and supplied at runtime"
+			"originalText": "Craetion of object done at compiletime and supplied at runtime",
+			"lineHeight": 1.2,
+			"baseline": 44
 		},
 		{
 			"type": "rectangle",
@@ -1601,12 +1647,14 @@ b6712f18ac6eead89b033609d806f16fa3df1d34: [[Pasted Image 20230321113710_438.png]
 			"textAlign": "center",
 			"verticalAlign": "middle",
 			"containerId": "89AqOXbQGgEG5JCSvFXGM",
-			"originalText": "Generate appComponent \nGenerate activity component\nGenerate fragment compoenent\n\n\nAppComponent == Singelton Scope"
+			"originalText": "Generate appComponent \nGenerate activity component\nGenerate fragment compoenent\n\n\nAppComponent == Singelton Scope",
+			"lineHeight": 1.2,
+			"baseline": 140
 		},
 		{
 			"type": "arrow",
-			"version": 518,
-			"versionNonce": 714601521,
+			"version": 520,
+			"versionNonce": 184689069,
 			"isDeleted": false,
 			"id": "7HDMux_MsJfPTlBHBVZ_t",
 			"fillStyle": "hachure",
@@ -1616,18 +1664,18 @@ b6712f18ac6eead89b033609d806f16fa3df1d34: [[Pasted Image 20230321113710_438.png]
 			"opacity": 100,
 			"angle": 0,
 			"x": 731.3941829506762,
-			"y": -1032.4030864817312,
+			"y": -1032.4030864817314,
 			"strokeColor": "#000000",
 			"backgroundColor": "#868e96",
 			"width": 350.89967610989424,
-			"height": 89.00709060135932,
+			"height": 89.00709060135955,
 			"seed": 972561448,
 			"groupIds": [],
 			"roundness": {
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1680586382826,
+			"updated": 1684404350830,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -1650,7 +1698,7 @@ b6712f18ac6eead89b033609d806f16fa3df1d34: [[Pasted Image 20230321113710_438.png]
 				],
 				[
 					350.89967610989424,
-					89.00709060135932
+					89.00709060135955
 				]
 			]
 		},
@@ -1689,8 +1737,8 @@ b6712f18ac6eead89b033609d806f16fa3df1d34: [[Pasted Image 20230321113710_438.png]
 		},
 		{
 			"type": "text",
-			"version": 72,
-			"versionNonce": 545237006,
+			"version": 73,
+			"versionNonce": 921426851,
 			"isDeleted": false,
 			"id": "j0KRwPXN",
 			"fillStyle": "hachure",
@@ -1700,16 +1748,16 @@ b6712f18ac6eead89b033609d806f16fa3df1d34: [[Pasted Image 20230321113710_438.png]
 			"opacity": 100,
 			"angle": 0,
 			"x": 77.0632813148867,
-			"y": -1768.7442693200296,
+			"y": -1767.8442693200298,
 			"strokeColor": "#000000",
 			"backgroundColor": "#868e96",
 			"width": 346.236328125,
-			"height": 43.199999999999996,
+			"height": 41.4,
 			"seed": 1743277864,
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1679378805421,
+			"updated": 1684404350833,
 			"link": null,
 			"locked": false,
 			"fontSize": 36,
@@ -1719,7 +1767,9 @@ b6712f18ac6eead89b033609d806f16fa3df1d34: [[Pasted Image 20230321113710_438.png]
 			"textAlign": "center",
 			"verticalAlign": "middle",
 			"containerId": "E-4KPdkzrAgkqti0ECqVc",
-			"originalText": "Dependency Injection"
+			"originalText": "Dependency Injection",
+			"lineHeight": 1.15,
+			"baseline": 33
 		},
 		{
 			"type": "image",
@@ -1818,7 +1868,9 @@ b6712f18ac6eead89b033609d806f16fa3df1d34: [[Pasted Image 20230321113710_438.png]
 			"textAlign": "center",
 			"verticalAlign": "middle",
 			"containerId": "xIE8-U6o5W9X3eH0vZAkp",
-			"originalText": "Dagger check things at compile time and if any error came then developer resolves it."
+			"originalText": "Dagger check things at compile time and if any error came then developer resolves it.",
+			"lineHeight": 1.2,
+			"baseline": 68
 		},
 		{
 			"type": "text",
@@ -1837,7 +1889,7 @@ b6712f18ac6eead89b033609d806f16fa3df1d34: [[Pasted Image 20230321113710_438.png]
 			"strokeColor": "#000000",
 			"backgroundColor": "#fa5252",
 			"width": 529.6875,
-			"height": 96,
+			"height": 92,
 			"seed": 1194667304,
 			"groupIds": [],
 			"roundness": null,
@@ -1852,7 +1904,9 @@ b6712f18ac6eead89b033609d806f16fa3df1d34: [[Pasted Image 20230321113710_438.png]
 			"textAlign": "center",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "NOTE: below scope can't be injected into above component\n                Ex:-  ActivityScoped can't be injected into \nActivityRetainedScoped\n"
+			"originalText": "NOTE: below scope can't be injected into above component\n                Ex:-  ActivityScoped can't be injected into \nActivityRetainedScoped\n",
+			"lineHeight": 1.15,
+			"baseline": 88
 		},
 		{
 			"type": "arrow",
@@ -1932,8 +1986,8 @@ b6712f18ac6eead89b033609d806f16fa3df1d34: [[Pasted Image 20230321113710_438.png]
 		},
 		{
 			"type": "text",
-			"version": 15,
-			"versionNonce": 1662492946,
+			"version": 16,
+			"versionNonce": 1661690893,
 			"isDeleted": false,
 			"id": "zQOED6BT",
 			"fillStyle": "hachure",
@@ -1943,16 +1997,16 @@ b6712f18ac6eead89b033609d806f16fa3df1d34: [[Pasted Image 20230321113710_438.png]
 			"opacity": 100,
 			"angle": 0,
 			"x": 624.4878704972947,
-			"y": 534.3066468173557,
+			"y": 534.8066468173557,
 			"strokeColor": "#000000",
 			"backgroundColor": "#fa5252",
 			"width": 28.896484375,
-			"height": 24,
+			"height": 23,
 			"seed": 1875809880,
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1679378805422,
+			"updated": 1684404350835,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -1962,7 +2016,9 @@ b6712f18ac6eead89b033609d806f16fa3df1d34: [[Pasted Image 20230321113710_438.png]
 			"textAlign": "center",
 			"verticalAlign": "middle",
 			"containerId": "saU0CSc5Wgb3QoIyCeBv9",
-			"originalText": "OK"
+			"originalText": "OK",
+			"lineHeight": 1.15,
+			"baseline": 19
 		},
 		{
 			"type": "arrow",
@@ -2042,8 +2098,8 @@ b6712f18ac6eead89b033609d806f16fa3df1d34: [[Pasted Image 20230321113710_438.png]
 		},
 		{
 			"type": "text",
-			"version": 109,
-			"versionNonce": 808378190,
+			"version": 110,
+			"versionNonce": 819359555,
 			"isDeleted": false,
 			"id": "PwehcYzU",
 			"fillStyle": "hachure",
@@ -2053,16 +2109,16 @@ b6712f18ac6eead89b033609d806f16fa3df1d34: [[Pasted Image 20230321113710_438.png]
 			"opacity": 100,
 			"angle": 0,
 			"x": 820.9716804909045,
-			"y": 547.3893611537363,
+			"y": 548.3893611537363,
 			"strokeColor": "#000000",
 			"backgroundColor": "#fa5252",
 			"width": 36.6796875,
-			"height": 48,
+			"height": 46,
 			"seed": 1903076648,
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1679378805422,
+			"updated": 1684404350836,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -2072,7 +2128,9 @@ b6712f18ac6eead89b033609d806f16fa3df1d34: [[Pasted Image 20230321113710_438.png]
 			"textAlign": "center",
 			"verticalAlign": "middle",
 			"containerId": "KSf_S3ma0L_GOjBMgD6VB",
-			"originalText": "Not OK"
+			"originalText": "Not OK",
+			"lineHeight": 1.15,
+			"baseline": 42
 		},
 		{
 			"type": "rectangle",
@@ -2109,8 +2167,8 @@ b6712f18ac6eead89b033609d806f16fa3df1d34: [[Pasted Image 20230321113710_438.png]
 		},
 		{
 			"type": "text",
-			"version": 205,
-			"versionNonce": 1978779022,
+			"version": 206,
+			"versionNonce": 1098734189,
 			"isDeleted": false,
 			"id": "5Jq9fhHj",
 			"fillStyle": "hachure",
@@ -2120,16 +2178,16 @@ b6712f18ac6eead89b033609d806f16fa3df1d34: [[Pasted Image 20230321113710_438.png]
 			"opacity": 100,
 			"angle": 0,
 			"x": 234.35143476846315,
-			"y": 836.1620013344335,
+			"y": 838.2620013344335,
 			"strokeColor": "#000000",
 			"backgroundColor": "#fa5252",
 			"width": 605.294921875,
-			"height": 100.80000000000001,
+			"height": 96.6,
 			"seed": 513560530,
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1679378805422,
+			"updated": 1684404350836,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -2139,7 +2197,9 @@ b6712f18ac6eead89b033609d806f16fa3df1d34: [[Pasted Image 20230321113710_438.png]
 			"textAlign": "center",
 			"verticalAlign": "middle",
 			"containerId": "Tm5dV57abmrp8wCc2Jz0T",
-			"originalText": "2 problem \n1. how to implement interface object\n2. Object for 3rd party library ex:- GSON, Retrofit"
+			"originalText": "2 problem \n1. how to implement interface object\n2. Object for 3rd party library ex:- GSON, Retrofit",
+			"lineHeight": 1.15,
+			"baseline": 90
 		},
 		{
 			"type": "text",
@@ -2158,7 +2218,7 @@ b6712f18ac6eead89b033609d806f16fa3df1d34: [[Pasted Image 20230321113710_438.png]
 			"strokeColor": "#000000",
 			"backgroundColor": "#fa5252",
 			"width": 1189.453125,
-			"height": 100.80000000000001,
+			"height": 96.6,
 			"seed": 2085927954,
 			"groupIds": [],
 			"roundness": null,
@@ -2173,7 +2233,9 @@ b6712f18ac6eead89b033609d806f16fa3df1d34: [[Pasted Image 20230321113710_438.png]
 			"textAlign": "center",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "@InstallIn(ApplicationComponentManager::class) tells in which component to install this module\n// Lives till application alive\n// ActivityComponent also used if we want to install in activity"
+			"originalText": "@InstallIn(ApplicationComponentManager::class) tells in which component to install this module\n// Lives till application alive\n// ActivityComponent also used if we want to install in activity",
+			"lineHeight": 1.15,
+			"baseline": 90
 		},
 		{
 			"type": "image",
@@ -2256,7 +2318,7 @@ b6712f18ac6eead89b033609d806f16fa3df1d34: [[Pasted Image 20230321113710_438.png]
 			"strokeColor": "#000000",
 			"backgroundColor": "#868e96",
 			"width": 3383.52685546875,
-			"height": 648,
+			"height": 677.3193359375001,
 			"seed": 272624654,
 			"groupIds": [],
 			"roundness": null,
@@ -2271,14 +2333,121 @@ b6712f18ac6eead89b033609d806f16fa3df1d34: [[Pasted Image 20230321113710_438.png]
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "java.lang.RuntimeException: Unable to start activity\nComponentInfo{com.dhruv.didemo/com.dhruv.didemo.MainActivity}: \nandroidx.fragment.app.Fragment$InstantiationException: Unable\n to instantiate fragment com.dhruv.didemo.MainFragment: could\n not find Fragment constructor"
+			"originalText": "java.lang.RuntimeException: Unable to start activity\nComponentInfo{com.dhruv.didemo/com.dhruv.didemo.MainActivity}: \nandroidx.fragment.app.Fragment$InstantiationException: Unable\n to instantiate fragment com.dhruv.didemo.MainFragment: could\n not find Fragment constructor",
+			"lineHeight": 1.25,
+			"baseline": 637
+		},
+		{
+			"id": "7NYM1Lzsl_zyLKviOrUMF",
+			"type": "rectangle",
+			"x": 527.3642889447844,
+			"y": -843.8697927310376,
+			"width": 218,
+			"height": 43,
+			"angle": 0,
+			"strokeColor": "#495057",
+			"backgroundColor": "#ced4da",
+			"fillStyle": "hachure",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"roundness": {
+				"type": 3
+			},
+			"seed": 23840931,
+			"version": 75,
+			"versionNonce": 1486573133,
+			"isDeleted": false,
+			"boundElements": [
+				{
+					"type": "text",
+					"id": "7GiiYB8W"
+				}
+			],
+			"updated": 1684404493652,
+			"link": null,
+			"locked": false
+		},
+		{
+			"id": "7GiiYB8W",
+			"type": "text",
+			"x": 564.0058905072844,
+			"y": -838.4697927310376,
+			"width": 144.716796875,
+			"height": 32.199999999999996,
+			"angle": 0,
+			"strokeColor": "#495057",
+			"backgroundColor": "#fa5252",
+			"fillStyle": "hachure",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"roundness": null,
+			"seed": 1453737965,
+			"version": 35,
+			"versionNonce": 205605123,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1684404493652,
+			"link": null,
+			"locked": false,
+			"text": "Fully Kotlin ",
+			"rawText": "Fully Kotlin ",
+			"fontSize": 28,
+			"fontFamily": 2,
+			"textAlign": "center",
+			"verticalAlign": "middle",
+			"baseline": 26,
+			"containerId": "7NYM1Lzsl_zyLKviOrUMF",
+			"originalText": "Fully Kotlin ",
+			"lineHeight": 1.15
+		},
+		{
+			"id": "O0cAFtub",
+			"type": "text",
+			"x": 651.4746405072844,
+			"y": -838.4697927310376,
+			"width": 7.779296875,
+			"height": 32.199999999999996,
+			"angle": 0,
+			"strokeColor": "#495057",
+			"backgroundColor": "#fa5252",
+			"fillStyle": "hachure",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"roundness": null,
+			"seed": 663855939,
+			"version": 5,
+			"versionNonce": 1984891011,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1684404488125,
+			"link": null,
+			"locked": false,
+			"text": "",
+			"rawText": "",
+			"fontSize": 28,
+			"fontFamily": 2,
+			"textAlign": "center",
+			"verticalAlign": "middle",
+			"baseline": 26,
+			"containerId": "7NYM1Lzsl_zyLKviOrUMF",
+			"originalText": "",
+			"lineHeight": 1.15
 		}
 	],
 	"appState": {
 		"theme": "dark",
 		"viewBackgroundColor": "#ffffff",
-		"currentItemStrokeColor": "#000000",
-		"currentItemBackgroundColor": "#fa5252",
+		"currentItemStrokeColor": "#495057",
+		"currentItemBackgroundColor": "#ced4da",
 		"currentItemFillStyle": "hachure",
 		"currentItemStrokeWidth": 2,
 		"currentItemStrokeStyle": "solid",
@@ -2289,10 +2458,10 @@ b6712f18ac6eead89b033609d806f16fa3df1d34: [[Pasted Image 20230321113710_438.png]
 		"currentItemTextAlign": "center",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 6218.961039898319,
-		"scrollY": 3064.5763189230684,
+		"scrollX": 372.9854080592302,
+		"scrollY": 1457.7861457975791,
 		"zoom": {
-			"value": 0.1
+			"value": 0.4465057595074173
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,

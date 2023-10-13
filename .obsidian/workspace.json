@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "6cc6d95e564cc322",
+        "id": "75edced59a042970",
         "type": "tabs",
         "children": [
           {
-            "id": "07e91bec8fa50afb",
+            "id": "0adbd356125cb5a6",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Diagrams/Compose.md"
+                "file": "Diagrams/Bluetooth.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -91,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Diagrams/Compose.md",
+                "file": "Diagrams/Bluetooth.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Diagrams/Compose.md",
+                "file": "Diagrams/Bluetooth.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Diagrams/Compose.md"
+                "file": "Diagrams/Bluetooth.md"
               }
             }
           },
@@ -169,32 +171,39 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b1abfe4b94f15bb0",
+  "active": "0adbd356125cb5a6",
   "lastOpenFiles": [
-    "Notes.md",
-    "Untitled.canvas",
-    "Excalidraw/Drawing 2023-04-15 12.16.53.excalidraw.md",
-    "Diagrams/Compose.md",
-    "Pasted Image 20230415120842_964.png",
-    "Pasted Image 20230414122455_536.png",
-    "Pasted Image 20230412223728_937.png",
-    "Pasted Image 20230412223406_526.png",
-    "Pasted Image 20230412223335_741.png",
-    "Pasted Image 20230412223028_149.png",
-    "Pasted Image 20230412221927_740.png",
-    "Pasted Image 20230412221648_347.png",
-    "Pasted Image 20230412221601_262.png",
-    "Pasted Image 20230316005627_726.png",
-    "Excalidraw",
-    "Images",
-    "Diagrams/Flows.md",
-    "Excalidraw/Drawing 2023-04-08 02.29.49.excalidraw.md",
     "Diagrams/Coroutine.md",
+    "Excalidraw/Drawing 2023-10-13 12.10.33.excalidraw.md",
+    "Excalidraw",
+    "2023-10-13.md",
+    "Diagrams/Bluetooth.md",
+    "Excalidraw/Drawing 2023-10-13 12.00.39.excalidraw.md",
+    "Untitled.canvas",
+    "Diagrams/Flows.md",
+    "Notes.md",
+    "Excalidraw/Drawing 2023-10-13 11.58.42.excalidraw.md",
+    "Excalidraw/Drawing 2023-10-13 11.57.10.excalidraw.md",
     "Diagrams/DI.md",
+    "Diagrams/Compose.md",
+    "Pasted Image 20230314005235_826.png",
+    "Images/Pasted Image 20230415120842_964.png",
+    "Images/Pasted Image 20230414122455_536.png",
+    "Images/Pasted Image 20230412223728_937.png",
+    "Images/Pasted Image 20230412223406_526.png",
+    "Images/Pasted Image 20230412223335_741.png",
+    "Images/Pasted Image 20230412223028_149.png",
+    "Images/Pasted Image 20230412221927_740.png",
+    "Images/Pasted Image 20230412221648_347.png",
+    "Images/Pasted Image 20230412221601_262.png",
+    "Diagrams/Scripts/Downloaded/Set Font Family.md",
+    "Excalidraw/Drawing 2023-06-26 00.54.10.excalidraw.md",
+    "Excalidraw/Drawing 2023-04-15 12.16.53.excalidraw.md",
+    "Images",
+    "Excalidraw/Drawing 2023-04-08 02.29.49.excalidraw.md",
     "Android.md",
     "Excalidraw/Drawing 2023-03-13 23.49.36.excalidraw.md",
     "Excalidraw/Drawing 2023-03-15 23.57.54.excalidraw.md",
-    "Diagrams/Scripts/Downloaded/Set Font Family.md",
     "Diagrams/Scripts/Downloaded",
     "Diagrams/Scripts"
   ]

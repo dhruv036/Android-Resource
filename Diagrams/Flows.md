@@ -84,7 +84,7 @@ f269001d979c5659f1e0c28d7ceb617be8473225: [[Pasted Image 20230408013546_789.png]
 {
 	"type": "excalidraw",
 	"version": 2,
-	"source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/1.8.22",
+	"source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/1.8.26",
 	"elements": [
 		{
 			"type": "rectangle",
@@ -160,7 +160,8 @@ f269001d979c5659f1e0c28d7ceb617be8473225: [[Pasted Image 20230408013546_789.png]
 			"verticalAlign": "middle",
 			"containerId": "E4yh_VQ4M2AA7FS5C7JNM",
 			"originalText": "Stream",
-			"lineHeight": 1.25
+			"lineHeight": 1.25,
+			"baseline": 18
 		},
 		{
 			"type": "rectangle",
@@ -232,7 +233,8 @@ f269001d979c5659f1e0c28d7ceb617be8473225: [[Pasted Image 20230408013546_789.png]
 			"verticalAlign": "middle",
 			"containerId": "7WJSqVngY4SBTZQZ84EqT",
 			"originalText": "CHANNEL",
-			"lineHeight": 1.25
+			"lineHeight": 1.25,
+			"baseline": 18
 		},
 		{
 			"type": "rectangle",
@@ -304,7 +306,8 @@ f269001d979c5659f1e0c28d7ceb617be8473225: [[Pasted Image 20230408013546_789.png]
 			"verticalAlign": "middle",
 			"containerId": "eJqKNTGNwoU0z2Jqtjnx4",
 			"originalText": "FLOWS",
-			"lineHeight": 1.25
+			"lineHeight": 1.25,
+			"baseline": 18
 		},
 		{
 			"type": "text",
@@ -339,7 +342,8 @@ f269001d979c5659f1e0c28d7ceb617be8473225: [[Pasted Image 20230408013546_789.png]
 			"verticalAlign": "top",
 			"containerId": null,
 			"originalText": "Hot",
-			"lineHeight": 1.25
+			"lineHeight": 1.25,
+			"baseline": 18
 		},
 		{
 			"type": "text",
@@ -374,12 +378,13 @@ f269001d979c5659f1e0c28d7ceb617be8473225: [[Pasted Image 20230408013546_789.png]
 			"verticalAlign": "top",
 			"containerId": null,
 			"originalText": "Cold",
-			"lineHeight": 1.25
+			"lineHeight": 1.25,
+			"baseline": 18
 		},
 		{
 			"type": "arrow",
-			"version": 306,
-			"versionNonce": 615576900,
+			"version": 314,
+			"versionNonce": 1846649521,
 			"isDeleted": false,
 			"id": "6UlcVOiJjz1K5GV_sOWFH",
 			"fillStyle": "hachure",
@@ -400,7 +405,7 @@ f269001d979c5659f1e0c28d7ceb617be8473225: [[Pasted Image 20230408013546_789.png]
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1680901852670,
+			"updated": 1687599429360,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -429,8 +434,8 @@ f269001d979c5659f1e0c28d7ceb617be8473225: [[Pasted Image 20230408013546_789.png]
 		},
 		{
 			"type": "arrow",
-			"version": 496,
-			"versionNonce": 1928786172,
+			"version": 504,
+			"versionNonce": 1175200913,
 			"isDeleted": false,
 			"id": "oUfuOuXzmDmTmp5EIRWCm",
 			"fillStyle": "hachure",
@@ -451,7 +456,7 @@ f269001d979c5659f1e0c28d7ceb617be8473225: [[Pasted Image 20230408013546_789.png]
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1680901852670,
+			"updated": 1687599429361,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -511,7 +516,8 @@ f269001d979c5659f1e0c28d7ceb617be8473225: [[Pasted Image 20230408013546_789.png]
 			"verticalAlign": "top",
 			"containerId": null,
 			"originalText": "from where it left Theater",
-			"lineHeight": 1.25
+			"lineHeight": 1.25,
+			"baseline": 14
 		},
 		{
 			"type": "text",
@@ -546,7 +552,8 @@ f269001d979c5659f1e0c28d7ceb617be8473225: [[Pasted Image 20230408013546_789.png]
 			"verticalAlign": "top",
 			"containerId": null,
 			"originalText": "from starting Netflix",
-			"lineHeight": 1.25
+			"lineHeight": 1.25,
+			"baseline": 14
 		},
 		{
 			"type": "text",
@@ -581,7 +588,8 @@ f269001d979c5659f1e0c28d7ceb617be8473225: [[Pasted Image 20230408013546_789.png]
 			"verticalAlign": "top",
 			"containerId": null,
 			"originalText": "lost data will npt get",
-			"lineHeight": 1.25
+			"lineHeight": 1.25,
+			"baseline": 14
 		},
 		{
 			"type": "text",
@@ -616,12 +624,13 @@ f269001d979c5659f1e0c28d7ceb617be8473225: [[Pasted Image 20230408013546_789.png]
 			"verticalAlign": "top",
 			"containerId": null,
 			"originalText": "data will get from starting",
-			"lineHeight": 1.25
+			"lineHeight": 1.25,
+			"baseline": 14
 		},
 		{
 			"type": "image",
-			"version": 180,
-			"versionNonce": 204491716,
+			"version": 182,
+			"versionNonce": 1900934463,
 			"isDeleted": false,
 			"id": "ney_c3wugtp80k_fymNJI",
 			"fillStyle": "hachure",
@@ -640,7 +649,7 @@ f269001d979c5659f1e0c28d7ceb617be8473225: [[Pasted Image 20230408013546_789.png]
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1680901852670,
+			"updated": 1687599493988,
 			"link": null,
 			"locked": false,
 			"status": "pending",
@@ -876,7 +885,8 @@ f269001d979c5659f1e0c28d7ceb617be8473225: [[Pasted Image 20230408013546_789.png]
 			"verticalAlign": "middle",
 			"containerId": "NVxcDiZjjDuHhI4ozDkEJ",
 			"originalText": "Multiple Consumer and single producer ",
-			"lineHeight": 1.25
+			"lineHeight": 1.25,
+			"baseline": 18
 		},
 		{
 			"type": "image",
@@ -1091,7 +1101,8 @@ f269001d979c5659f1e0c28d7ceb617be8473225: [[Pasted Image 20230408013546_789.png]
 			"verticalAlign": "middle",
 			"containerId": "7RuC1iUn-xAJUqoHgvBWM",
 			"originalText": "Delay(3500)",
-			"lineHeight": 1.15
+			"lineHeight": 1.15,
+			"baseline": 19
 		},
 		{
 			"type": "rectangle",
@@ -1187,7 +1198,8 @@ f269001d979c5659f1e0c28d7ceb617be8473225: [[Pasted Image 20230408013546_789.png]
 			"verticalAlign": "middle",
 			"containerId": "kJXWsXjJtXiBKS1RTS1tu",
 			"originalText": "FLOW  Multiple Consumer",
-			"lineHeight": 1.15
+			"lineHeight": 1.15,
+			"baseline": 33
 		},
 		{
 			"type": "image",
@@ -1351,7 +1363,8 @@ f269001d979c5659f1e0c28d7ceb617be8473225: [[Pasted Image 20230408013546_789.png]
 			"verticalAlign": "top",
 			"containerId": "2q5AOkTPcI3tBMWaTq_DA",
 			"originalText": "     producer()\n                .map {\n                   it * 2\n                }\n                .filter {\n                    it < 8     \n                }\n                .collect{\n\n                }\n        }",
-			"lineHeight": 1.2
+			"lineHeight": 1.2,
+			"baseline": 260
 		},
 		{
 			"type": "rectangle",
@@ -1419,7 +1432,8 @@ f269001d979c5659f1e0c28d7ceb617be8473225: [[Pasted Image 20230408013546_789.png]
 			"verticalAlign": "middle",
 			"containerId": "WQykJB_LqJ42UJBeSLOAx",
 			"originalText": "Output\n\n2\n4\n6",
-			"lineHeight": 1.2
+			"lineHeight": 1.2,
+			"baseline": 116
 		},
 		{
 			"type": "rectangle",
@@ -1487,31 +1501,32 @@ f269001d979c5659f1e0c28d7ceb617be8473225: [[Pasted Image 20230408013546_789.png]
 			"verticalAlign": "middle",
 			"containerId": "y-7fYhUna31ddhTv1Ioso",
 			"originalText": "Flow starts with terminal operator",
-			"lineHeight": 1.2
+			"lineHeight": 1.2,
+			"baseline": 44
 		},
 		{
-			"id": "k6pk1U1v0MHFQWcHrMUri",
 			"type": "rectangle",
-			"x": 1996.7156712679248,
-			"y": 2163.9563755843424,
-			"width": 652,
-			"height": 210,
-			"angle": 0,
-			"strokeColor": "#364fc7",
-			"backgroundColor": "#82c91e",
+			"version": 177,
+			"versionNonce": 494761340,
+			"isDeleted": false,
+			"id": "k6pk1U1v0MHFQWcHrMUri",
 			"fillStyle": "hachure",
 			"strokeWidth": 2,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": 1996.7156712679248,
+			"y": 2163.9563755843424,
+			"strokeColor": "#364fc7",
+			"backgroundColor": "#82c91e",
+			"width": 652,
+			"height": 210,
+			"seed": 69540604,
 			"groupIds": [],
 			"roundness": {
 				"type": 3
 			},
-			"seed": 69540604,
-			"version": 177,
-			"versionNonce": 494761340,
-			"isDeleted": false,
 			"boundElements": [
 				{
 					"type": "text",
@@ -1523,46 +1538,83 @@ f269001d979c5659f1e0c28d7ceb617be8473225: [[Pasted Image 20230408013546_789.png]
 			"locked": false
 		},
 		{
-			"id": "Bw43lXHT",
 			"type": "text",
-			"x": 2001.7156712679248,
-			"y": 2168.9563755843424,
-			"width": 609.375,
-			"height": 192,
-			"angle": 0,
-			"strokeColor": "#364fc7",
-			"backgroundColor": "#82c91e",
+			"version": 52,
+			"versionNonce": 458993732,
+			"isDeleted": false,
+			"id": "Bw43lXHT",
 			"fillStyle": "hachure",
 			"strokeWidth": 2,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": 2001.7156712679248,
+			"y": 2168.9563755843424,
+			"strokeColor": "#364fc7",
+			"backgroundColor": "#82c91e",
+			"width": 609.375,
+			"height": 192,
+			"seed": 1312834940,
 			"groupIds": [],
 			"roundness": null,
-			"seed": 1312834940,
-			"version": 52,
-			"versionNonce": 458993732,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1680901889035,
 			"link": null,
 			"locked": false,
-			"text": "   val time = measureTimeMillis {\n                 producer()\n                     .buffer(3)\n                     .collect{\n                         delay(1500)\n                         Log.e(\"iterate\" ,\" at $it\")\n                     }\n             }",
-			"rawText": "   val time = measureTimeMillis {\n                 producer()\n                     .buffer(3)\n                     .collect{\n                         delay(1500)\n                         Log.e(\"iterate\" ,\" at $it\")\n                     }\n             }",
 			"fontSize": 20,
 			"fontFamily": 3,
+			"text": "   val time = measureTimeMillis {\n                 producer()\n                     .buffer(3)\n                     .collect{\n                         delay(1500)\n                         Log.e(\"iterate\" ,\" at $it\")\n                     }\n             }",
+			"rawText": "   val time = measureTimeMillis {\n                 producer()\n                     .buffer(3)\n                     .collect{\n                         delay(1500)\n                         Log.e(\"iterate\" ,\" at $it\")\n                     }\n             }",
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": "k6pk1U1v0MHFQWcHrMUri",
 			"originalText": "   val time = measureTimeMillis {\n                 producer()\n                     .buffer(3)\n                     .collect{\n                         delay(1500)\n                         Log.e(\"iterate\" ,\" at $it\")\n                     }\n             }",
-			"lineHeight": 1.2
+			"lineHeight": 1.2,
+			"baseline": 188
 		},
 		{
-			"id": "7pUlBpmr",
 			"type": "text",
+			"version": 156,
+			"versionNonce": 1637515132,
+			"isDeleted": false,
+			"id": "7pUlBpmr",
+			"fillStyle": "hachure",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
 			"x": 1988.826879473787,
 			"y": 2393.2854617269254,
+			"strokeColor": "#364fc7",
+			"backgroundColor": "#82c91e",
 			"width": 679.6875,
+			"height": 24,
+			"seed": 1659954884,
+			"groupIds": [],
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1680901959968,
+			"link": null,
+			"locked": false,
+			"fontSize": 20,
+			"fontFamily": 3,
+			"text": "Reduce some time as buffer have storage to store next data",
+			"rawText": "Reduce some time as buffer have storage to store next data",
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "Reduce some time as buffer have storage to store next data",
+			"lineHeight": 1.2,
+			"baseline": 20
+		},
+		{
+			"id": "5XbE6zfM",
+			"type": "text",
+			"x": 12.907181368779277,
+			"y": 494.335082442509,
+			"width": 11.71875,
 			"height": 24,
 			"angle": 0,
 			"strokeColor": "#364fc7",
@@ -1574,22 +1626,23 @@ f269001d979c5659f1e0c28d7ceb617be8473225: [[Pasted Image 20230408013546_789.png]
 			"opacity": 100,
 			"groupIds": [],
 			"roundness": null,
-			"seed": 1659954884,
-			"version": 156,
-			"versionNonce": 1637515132,
-			"isDeleted": false,
+			"seed": 1048277279,
+			"version": 2,
+			"versionNonce": 178668081,
+			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1680901959968,
+			"updated": 1687599493994,
 			"link": null,
 			"locked": false,
-			"text": "Reduce some time as buffer have storage to store next data",
-			"rawText": "Reduce some time as buffer have storage to store next data",
+			"text": "",
+			"rawText": "",
 			"fontSize": 20,
 			"fontFamily": 3,
-			"textAlign": "left",
-			"verticalAlign": "top",
-			"containerId": null,
-			"originalText": "Reduce some time as buffer have storage to store next data",
+			"textAlign": "center",
+			"verticalAlign": "middle",
+			"baseline": 20,
+			"containerId": "ney_c3wugtp80k_fymNJI",
+			"originalText": "",
 			"lineHeight": 1.2
 		}
 	],
@@ -1608,10 +1661,10 @@ f269001d979c5659f1e0c28d7ceb617be8473225: [[Pasted Image 20230408013546_789.png]
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 894.8901986091238,
-		"scrollY": -410.5176245740387,
+		"scrollX": 1463.1669493999325,
+		"scrollY": -532.8527715746876,
 		"zoom": {
-			"value": 0.31123751938343047
+			"value": 0.5599092397775058
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,
