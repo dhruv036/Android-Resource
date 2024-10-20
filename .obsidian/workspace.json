@@ -4,17 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "2e86eb10ac4aef4d",
+        "id": "405974f6f91d9b82",
         "type": "tabs",
         "children": [
           {
-            "id": "517767a69d8046ae",
+            "id": "21874e02a37d7070",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Diagrams/System Design.md"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -91,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Diagrams/System Design.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Diagrams/System Design.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -130,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Diagrams/System Design.md"
-              }
+              "state": {}
             }
           },
           {
@@ -171,19 +165,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "517767a69d8046ae",
+  "active": "21874e02a37d7070",
   "lastOpenFiles": [
     "Diagrams/System Design.md",
-    "Pasted Image 20241013044109_646.png",
-    "Images/Screenshot 2024-10-13 at 10.19.16 PM.png",
-    "Images/Screenshot 2024-10-13 at 9.55.10 PM.png",
-    "Images/Screenshot 2024-10-13 at 9.42.53 PM.png",
-    "Images/Screenshot 2024-10-13 at 5.46.51 PM.png",
-    "Images/Screenshot 2024-10-13 at 5.46.25 PM.png",
-    "Images/Screenshot 2024-10-13 at 5.46.07 PM.png",
-    "Images/Screenshot 2024-10-13 at 5.42.45 PM.png",
-    "Images/Pasted Image 20241013044840_585.png",
-    "Images/Pasted Image 20241013044738_696.png",
+    "Screenshot 2024-10-20 at 11.22.50 PM.png",
+    "Screenshot 2024-10-20 at 11.22.15 PM.png",
+    "Screenshot 2024-10-20 at 11.20.55 PM.png",
+    "Screenshot 2024-10-20 at 11.19.07 PM.png",
+    "Screenshot 2024-10-20 at 10.31.04 PM.png",
+    "Screenshot 2024-10-20 at 10.19.57 PM.png",
+    "Screenshot 2024-10-20 at 8.10.40 PM.png",
+    "Screenshot 2024-10-20 at 8.08.40 PM.png",
+    "Screenshot 2024-10-20 at 7.51.05 PM.png",
+    "Screenshot 2024-10-20 at 1.54.30 PM.png",
+    "Code/System Design/Bicycle.class",
+    "Code/System Design/Motorcycle.class",
+    "Code/System Design/Bike.class",
+    "Code/System Design/FileInvoiceDao.class",
     "Notes.md",
     "Diagrams/Compose.md",
     "Diagrams/Bluetooth.md",
@@ -197,10 +195,6 @@
     "Code/System Design/InvoicePrinter.class",
     "Code/System Design/Marker.class",
     "Code/System Design/Invoice.class",
-    "Code/System Design/Invoice.java",
-    "Code/System Design/Solid_p.class",
-    "Code/System Design/Solid_P.java",
-    "Code/System Design",
     "Diagrams/Untitled.canvas",
     "Diagrams/Scripts/Downloaded/Set Font Family.md",
     "Excalidraw/Drawing 2023-10-13 12.10.33.excalidraw.md",
