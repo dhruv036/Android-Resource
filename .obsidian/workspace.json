@@ -25,10 +25,10 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Diagrams/System Design.md"
+                "file": "Diagrams/Coroutine.md"
               },
               "icon": "excalidraw-icon",
-              "title": "System Design"
+              "title": "Coroutine"
             }
           }
         ],
@@ -207,6 +207,11 @@
   },
   "active": "c01b43027c261eed",
   "lastOpenFiles": [
+    "Diagrams/Bluetooth.md",
+    "Diagrams/Compose.md",
+    "Diagrams/System Design.md",
+    "Images/Screenshot 2024-10-20 at 1.49.01 PM.png",
+    "Images/Screenshot 2024-10-20 at 1.54.06 PM.png",
     "Code/System Design/StrategyDesignPattern/DieselCar.class",
     "Code/System Design/StrategyDesignPattern/ElectricCar.class",
     "Code/System Design/StrategyDesignPattern/Car.class",
@@ -220,21 +225,15 @@
     "Diagrams/Flows.md",
     "Diagrams/DI.md",
     "Diagrams/Coroutine.md",
-    "Diagrams/System Design.md",
-    "Screenshot 2024-10-20 at 11.22.50 PM.png",
-    "Screenshot 2024-10-20 at 11.22.15 PM.png",
-    "Screenshot 2024-10-20 at 11.20.55 PM.png",
-    "Screenshot 2024-10-20 at 11.19.07 PM.png",
-    "Screenshot 2024-10-20 at 10.31.04 PM.png",
-    "Screenshot 2024-10-20 at 10.19.57 PM.png",
-    "Screenshot 2024-10-20 at 8.10.40 PM.png",
-    "Screenshot 2024-10-20 at 8.08.40 PM.png",
-    "Screenshot 2024-10-20 at 7.51.05 PM.png",
-    "Screenshot 2024-10-20 at 1.54.30 PM.png",
-    "Code/System Design/Bicycle.class",
+    "Images/Screenshot 2024-10-20 at 11.22.50 PM.png",
+    "Images/Screenshot 2024-10-20 at 11.22.15 PM.png",
+    "Images/Screenshot 2024-10-20 at 11.20.55 PM.png",
+    "Images/Screenshot 2024-10-20 at 11.19.07 PM.png",
+    "Images/Screenshot 2024-10-20 at 10.31.04 PM.png",
+    "Images/Screenshot 2024-10-20 at 10.19.57 PM.png",
+    "Images/Screenshot 2024-10-20 at 8.10.40 PM.png",
+    "Images/Screenshot 2024-10-20 at 8.08.40 PM.png",
     "Notes.md",
-    "Diagrams/Compose.md",
-    "Diagrams/Bluetooth.md",
     "Excalidraw/Drawing 2023-11-30 23.24.30.excalidraw.md",
     "Diagrams/Untitled.canvas",
     "Diagrams/Scripts/Downloaded/Set Font Family.md",
