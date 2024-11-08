@@ -11,11 +11,28 @@
             "id": "21874e02a37d7070",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "excalidraw",
+              "state": {
+                "file": "Diagrams/System Design.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "System Design"
+            }
+          },
+          {
+            "id": "c01b43027c261eed",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Diagrams/System Design.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "System Design"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -35,7 +52,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -50,7 +69,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -58,7 +79,9 @@
             "type": "leaf",
             "state": {
               "type": "starred",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -66,7 +89,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -89,6 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Diagrams/System Design.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +122,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for System Design"
             }
           },
           {
@@ -105,9 +133,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Diagrams/System Design.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from System Design"
             }
           },
           {
@@ -118,7 +149,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -126,7 +159,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Diagrams/System Design.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of System Design"
             }
           },
           {
@@ -134,7 +171,9 @@
             "type": "leaf",
             "state": {
               "type": "git-view",
-              "state": {}
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           },
           {
@@ -142,7 +181,9 @@
             "type": "leaf",
             "state": {
               "type": "code-execute-manage-executors",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           }
         ],
@@ -161,12 +202,24 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "media-extended:Open media": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "21874e02a37d7070",
+  "active": "c01b43027c261eed",
   "lastOpenFiles": [
+    "Code/System Design/StrategyDesignPattern/DieselCar.class",
+    "Code/System Design/StrategyDesignPattern/ElectricCar.class",
+    "Code/System Design/StrategyDesignPattern/Car.class",
+    "Code/System Design/StrategyDesignPattern/AutomaticGearSystem.class",
+    "Code/System Design/StrategyDesignPattern/ManualGearSystem.class",
+    "Code/System Design/StrategyDesignPattern/GearSystem.class",
+    "Code/System Design/StrategyDesignPattern/Car.java",
+    "Code/System Design/StrategyDesignPattern/Strategy.java",
+    "Code/System Design/StrategyDesignPattern/Strate",
+    "Code/System Design/StrategyDesignPattern",
+    "Diagrams/Flows.md",
+    "Diagrams/DI.md",
+    "Diagrams/Coroutine.md",
     "Diagrams/System Design.md",
     "Screenshot 2024-10-20 at 11.22.50 PM.png",
     "Screenshot 2024-10-20 at 11.22.15 PM.png",
@@ -179,22 +232,10 @@
     "Screenshot 2024-10-20 at 7.51.05 PM.png",
     "Screenshot 2024-10-20 at 1.54.30 PM.png",
     "Code/System Design/Bicycle.class",
-    "Code/System Design/Motorcycle.class",
-    "Code/System Design/Bike.class",
-    "Code/System Design/FileInvoiceDao.class",
     "Notes.md",
     "Diagrams/Compose.md",
     "Diagrams/Bluetooth.md",
-    "Diagrams/Flows.md",
-    "Diagrams/DI.md",
-    "Diagrams/Coroutine.md",
     "Excalidraw/Drawing 2023-11-30 23.24.30.excalidraw.md",
-    "Code/System Design/PrinterInvoiceDao.class",
-    "Code/System Design/DatabaseInvoiceDao.class",
-    "Code/System Design/InvoiceDao.class",
-    "Code/System Design/InvoicePrinter.class",
-    "Code/System Design/Marker.class",
-    "Code/System Design/Invoice.class",
     "Diagrams/Untitled.canvas",
     "Diagrams/Scripts/Downloaded/Set Font Family.md",
     "Excalidraw/Drawing 2023-10-13 12.10.33.excalidraw.md",
